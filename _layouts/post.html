@@ -9,7 +9,14 @@
 {% include head.html %}
 
 <body>
-
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10&appId=130211964257512";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
     {% include header.html %} 
     
     
@@ -28,10 +35,14 @@
 		<p>{{ content }}</p>
 		
 			{% if author %}
-				<div class="author">
+				<div class="author" style="margin-bottom: 20px;">
 					<span class="written-by">Written by</span> <a href="{{ author.url }}">{{ author.title }}</a>
 				</div>
 			{% endif %}
+
+			<div style="margin: 0 auto; padding-top: 50px; border-top: 1px solid #fff; color: #fff;">
+				<div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-numposts="5"></div>
+			</div>
 	</div>
 </section>
 
