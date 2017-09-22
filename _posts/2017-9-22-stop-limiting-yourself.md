@@ -9,7 +9,7 @@ author: Josh Arnold
 
 Have you ever been disoriented in the middle of the day? You begin to wonder...how long have I been sitting? How long have I been staring at this same paragraph? Why was I reading Facebook comments for 30 minutes? Where has my day gone?! Then you move into the "I'm awake now" phase. You feel like you've just woken up and you don't really know how you "fell asleep" to begin with. 
 
-For almost thirty years of my life, I was asleep. When I snapped out of it, I had the same questions: why did I live this way for so long? Why didn't I see the truth right in front of me? How could I have missed all of this? Where have I been? 
+For almost thirty years of my life, I was asleep. When I snapped out of it, I had the same "I'm awake now" questions: why did I live this way for so long? Why didn't I see the truth right in front of me? How could I have missed all of this? Where have I been? 
 
 <blockquote>I was stuck under the power of the lie that said: "people and the environment around me ultimately shaped who I would become."</blockquote>
 
