@@ -3,7 +3,7 @@ title: Contend
 subtitle: News & Updates
 email: youremailaddress@gmail.com
 description: Keep up to date with all of our latest news and teachings.
-url: "" # the base hostname & protocol for your site
+url: "http://blog.contend.church" # the base hostname & protocol for your site
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
