@@ -29,7 +29,7 @@ You might be thinking <em>"but you don't know where I came from..."</em>
 
 <h3>It doesn't matter where you came from; what matters is where you live now.</h3>
 
-The Spirit is life, liberty, joy, and peace. When you said yes to Jesus, your body became a temple of the Holy Spirit. He washed you clean and you were reborn. Why? BECAUSE YOU DIED. I'm convinced that we get stuck in the past because we don't embrace the simple truth that it's no longer us that live but Christ IN US, the hope of Glory. You are seated in Heavenly places with Christ Jesus. Your last home might have been horrible you're not called to look from earth to Heaven. You're called to look from Heaven to earth! WE need to learn to live in our present (new self) rather than from our past (old self).
+The Spirit is life, liberty, joy, and peace. When you said yes to Jesus, your body became a temple of the Holy Spirit. He washed you clean and you were reborn. Why? BECAUSE YOU DIED. I'm convinced that we get stuck in the past because we don't embrace the simple truth that it's no longer us that live but Christ IN US, the hope of Glory. You are seated in Heavenly places with Christ Jesus. Your last home might have been horrible but you're not called to look from earth to Heaven. You're called to look from Heaven to earth! WE need to learn to live in our present (new self) rather than from our past (old self).
 
 Paul says in Romans 8: 38-39:
 
