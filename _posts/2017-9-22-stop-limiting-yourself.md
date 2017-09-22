@@ -37,6 +37,6 @@ Paul says in Romans 8: 38-39:
 
 Do you know what's NOT in that list? Your past. It's not there because it's the only thing that you can empower to block you from living in the fullness of His love for you. Are you still loved when you live in the past? OF COURSE! BEING loved and KNOWING that you're loved are two totally different things. When you don't know that you're loved, you begin to doubt the promises of God and breathe life into the excuses that preventing you from reaching your potential.
 
-I want to encourage you today that no matter what side of the bed you woke up on, His grace is sufficient to break off the lies you've been embracing. You're not like everyone else. You're not insignficant. You DO have value. You CAN be effective. You ARE loved. You ARE a conqueror. You ARE uniquely gifted. 
+I want to encourage you today that no matter what side of the bed you woke up on, His grace is sufficient to break off the lies you've been embracing. You're not like everyone else. You're not insignificant. You DO have value. You CAN be effective. You ARE loved. You ARE a conqueror. You ARE uniquely gifted. 
 
 Stop limiting yourself!
