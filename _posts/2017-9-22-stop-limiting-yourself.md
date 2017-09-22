@@ -17,7 +17,7 @@ I was striving to perform my way into popularity, acceptance, and love. When som
 
 <blockquote>I let the opinions of people define my value.</blockquote>
 
-Simply put: excuses are strongholds that limit potential. When you allow an offense to take root, it bears the fruit of excuses that we partner with to explain why we don't see what God has promised. 
+Simply put: excuses are strongholds that limit potential. When you allow an offense to take root, it bears the fruit of excuses that we partner with to explain why we don't see what God has promised. Do you want to see and experience more of God? Shake off the shackles of excuses so that you can take the RISK of faith!
 
 You might be thinking <em>"but you don't know what they did to me..."</em>
 
