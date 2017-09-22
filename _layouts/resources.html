@@ -19,8 +19,7 @@
 <!-- One -->
 <section id="one">
 	<div class="inner">
-				{% assign posts = site.posts | except:"category","resources" %}
-                {% for post in posts %}
+                {% for post in site.categories.resources %}
 		<header class="major">
 			<h1>{{ post.title }}</h1>
 		</header>
