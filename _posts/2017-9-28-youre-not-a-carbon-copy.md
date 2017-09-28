@@ -2,7 +2,7 @@
 layout: post
 title: You're Not A Carbon Copy
 description: We've all had our bouts with comparison. We've thought highly of others and low of ourselves. Some of us have even prayed the prayers that sound like "God, can you just make me more like HIM/HER?! I promise I'd use those gifts for you!"  It seems so easy to do, doesn't it?
-excerpt: We've all had out bouts with comparison. We've thought highly of others and low of ourselves.
+excerpt: We've all had our bouts with comparison. We've thought highly of others and low of ourselves.
 image: assets/images/pic11.jpg
 author: Josh Arnold
 ---
