@@ -18,10 +18,10 @@ I think God used the rib of Adam because it helps illustrate that we have things
 
 <blockquote>God's creative expression isn't limited to what we've already seen Him do</blockquote>
 
-God places a unique piece of Himself in all of us. It's the reason why TOGETHER we get to look like Jesus! We all represent Him but we can never fully <em>re-present</em> Him by ourselves. We all add value to the masterpiece that He's created and our value was determined by the price He paid to bring us into right standing with Him. In other words: my created value doesn't look like yours but it's just as valuable.
+God places a unique piece of Himself in all of us. It's the reason why TOGETHER we get to look like Jesus! We all represent Him but we can never fully <em>re-present</em> Him by ourselves. We all add value to the masterpiece that He's created and our value was determined by the price He paid to bring us into right standing with Him. In other words: 
 
-<blockquote>When we lust after the gifts we see in others, we devalue the gifts that HE has placed in US</blockquote>
+<blockquote>My created value doesn't look like yours but it's just as valuable.</blockquote>
 
-I want to encourage you today to embrace your value and to be found thankful. Listen to this song and ask God to show you more of what He's placed inside of you. I pray that He reveal to you a greater revelation of your value and a deeper understanding of the fact that you were destined to represent Him to this world. 
+When we lust after the gifts we see in others, we devalue the gifts that He has already placed in us. I want to encourage you today to embrace your value and to be found thankful. Listen to this song and ask God to show you more of what He's placed inside of you. I pray that He reveal to you a greater revelation of your value and a deeper understanding of the fact that you were destined to represent Him to this world. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CiWvVKuUSsw?rel=0" frameborder="0" allowfullscreen></iframe>
