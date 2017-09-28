@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'A new way to share and partner with powerful words of encouragement'
+landing-title: 'Harness the power of encouraging words'
 description: null
 image: null
 author: null

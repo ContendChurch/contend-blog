@@ -1,7 +1,7 @@
 # site settings
 title: Contend
-subtitle: News & Updates
-email: youremailaddress@gmail.com
+subtitle: Blog
+email: josh@theexchangechurch.org
 description: Keep up to date with all of our latest news and teachings.
 url: "http://blog.contend.church" # the base hostname & protocol for your site
 
