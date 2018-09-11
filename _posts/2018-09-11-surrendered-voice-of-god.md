@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Surrendered To The Voice Of God
-description: "I don’t want it if you're not in it.....I just want you", as I heard those lyrics coming out of the speakers of my car, I immediately felt my stomach drop. That simple statement had just blown-up my personal definition of being fully surrendered to Jesus.
-excerpt: "I don’t want it if you're not in it.....I just want you", as I heard those lyrics coming out of the speakers of my car, I immediately felt my stomach drop. That simple statement had just blown-up my personal definition of being fully surrendered to Jesus.
+description: As I heard those lyrics coming out of the speakers of my car, I immediately felt my stomach drop. That simple statement had just blown-up my personal definition of being fully surrendered to Jesus.
+excerpt: As I heard those lyrics coming out of the speakers of my car, I immediately felt my stomach drop. That simple statement had just blown-up my personal definition of being fully surrendered to Jesus.
 image: assets/images/focus.jpg
 author: Grace Hubbart
 ---
