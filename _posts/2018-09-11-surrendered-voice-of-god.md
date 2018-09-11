@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Surrendered To The Voice Of God
-description: In case you didn't notice, our applications were broken for a little while but we're happy to announce that they're back! We've done a lot of work to fix the bugs that you reported in our mobile apps. We also introduced a brand new way of transcribing your audio files so that you don't have to worry about trying to type up your encouraging words.
-excerpt: In case you didn't notice, our applications were broken for a little while but we're happy to announce that they're back! We've done a lot of work to fix the bugs that you reported in our mobile apps. We also introduced a brand new way of transcribing your audio files so that you don't have to worry about trying to type up your encouraging words.
+description: "I don’t want it if you're not in it.....I just want you", as I heard those lyrics coming out of the speakers of my car, I immediately felt my stomach drop. That simple statement had just blown-up my personal definition of being fully surrendered to Jesus.
+excerpt: "I don’t want it if you're not in it.....I just want you", as I heard those lyrics coming out of the speakers of my car, I immediately felt my stomach drop. That simple statement had just blown-up my personal definition of being fully surrendered to Jesus.
 image: assets/images/focus.jpg
 author: Grace Hubbart
 ---
