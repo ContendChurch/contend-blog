@@ -4,7 +4,7 @@ title: Righteous Fruits
 description: It matters because if we don't see that we're righteous in Him, we'll always strive to be attain something we already have
 excerpt: It matters because if we don't see that we're righteous in Him, we'll always strive to be attain something we already have
 image: assets/images/tree-dusk.jpg
-ogImage: assets/images/holiness.png
+ogImage: assets/images/holiness2.png
 author: Josh Arnold
 ---
 
