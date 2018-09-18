@@ -22,8 +22,12 @@
 	<meta property="og:type" content="website">
 	<meta property="og:description" content="{{ site.description }}">
 	{% endif %}
+	{% if page.ogImage %}
+	<meta property="og:image" content="{{ site.url }}/{{ page.ogImage }}">
+	{% else %}
 	{% if page.image %}
 	<meta property="og:image" content="{{ site.url }}/{{ page.image }}">
+	{% endif %}
 	{% endif %}
 	{% if page.date %}
 	<meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
