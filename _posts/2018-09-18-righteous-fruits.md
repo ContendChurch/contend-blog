@@ -40,7 +40,7 @@ Now let's connect the dots:
 
 Here's the revelation that I want you to pray into today: 
 
-<blockquote>The byproduct of what we're believing is the fruit that we produce.</blockquote>
+<blockquote>The fruit that we produce is a byproduct of what we believe.</blockquote>
 
 If you believe you're righteous and that He made your tree good, then you will naturally produce His Holy fruit (Galatians 5:22-23). You don't have to TRY to be more Holy. You have to BELIEVE that you ARE righteous by His GRACE. Grace isn't some twisted license to do whatever you want and get away with it. Grace is the operational power of God on your life to live FREE from ALL sin. He made you to look like Him. The more you believe that, the more you look like Him and your heart will gradually shift from the things that distract you. It's not legalism. It's LOVE. It always has and always will be about intimacy with Jesus:
 
