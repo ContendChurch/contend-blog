@@ -34,13 +34,13 @@ Now let's connect the dots:
 
 <ul>
     <li>Jesus became sin so that we might become God's righteousness IN Christ. He clothes us in His robe of righteousness (Isaiah 61:10). </li>
-    <li>Paul says that we had no fruit when we were slaves to sin but now that we slaves to righteousness, we have our fruit to holiness.</li>
+    <li>Paul says that we had no fruit when we were slaves to sin but now that we are slaves to righteousness, we have our fruit to holiness.</li>
     <li>Jesus made our tree good so now the fruit is good too.</li>
 </ul>
 
 Here's the revelation that I want you to pray into today: 
 
-<blockquote>The byproduct of what we're believing is the fruit that we're living.</blockquote>
+<blockquote>The byproduct of what we're believing is the fruit that we produce.</blockquote>
 
 If you believe you're righteous and that He made your tree good, then you will naturally produce His Holy fruit (Galatians 5:22-23). You don't have to TRY to be more Holy. You have to BELIEVE that you ARE righteous by His GRACE. Grace isn't some twisted license to do whatever you want and get away with it. Grace is the operational power of God on your life to live FREE from ALL sin. He made you to look like Him. The more you believe that, the more you look like Him and your heart will gradually shift from the things that distract you. It's not legalism. It's LOVE. It always has and always will be about intimacy with Jesus:
 
